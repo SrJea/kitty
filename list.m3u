@@ -1,4 +1,76 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://vegasplus.us/Holaa_files/las_vegas_tonight.png" group-title="USA | Vegas Plus",Las Vegas Tonight (1080p)
+https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianCultureTV.us@HD" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t39.30808-1/291997303_461263026002428_3741728661381214588_n.png?_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=gCleneFJciUQ7kNvwFJDKQq&_nc_oc=AdnnBFnCgFFMCMN_MAseV3QWU6dAkPPK6PER-hdICUoL5blaBk6o-pOGDF5hqWysPEI&_nc_zt=24&_nc_ht=scontent.fvlc4-1.fna&_nc_gid=rf4VSnBSA8yp7DUaKsE0SQ&_nc_ss=8&oh=00_AfyZopqdVsgcy2JKAPSxlA8gyiA1MJeeBV0RLvoebqtdFw&oe=69BF6856" group-title="USA | Vegas Plus",Asian Culture TV (1080p)
+https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t39.30808-1/396450450_650034663914626_2811909332775365065_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=_aCUSZIqBikQ7kNvwGmsPN_&_nc_oc=AdlqnG4qM8B8KuOhyhPROn7hk8p1w-9jcgAymk6PSyGdez8-oV67rdbCRYuoxZxRn7s&_nc_zt=24&_nc_ht=scontent.fvlc4-1.fna&_nc_gid=la_Ryu9gl3Vl3WCIJ2r3Bw&_nc_ss=8&oh=00_AfyL9UVH33SZxqiLsJHq-kPYnsSlaJm2_LII9zr8xcq2_g&oe=69BF7FFF" group-title="USA | Vegas Plus",FilAmTV Network (1080p)
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoChannelTV.us@HD" tvg-logo="https://m.media-amazon.com/images/I/41qXwGAUMnL.png" group-title="USA | Vegas Plus",Latino Channel TV (1080p)
+https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t39.30808-1/469079007_10164373999663572_6909747430415389767_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=PyXgLtl_rXQQ7kNvwEMLiUT&_nc_oc=AdnZ0TOmUSu4FpFOPrxZJczkFGjqsjGxL_EnVo5mYbgvhCv7183R3cqIUY07Y3Ov3Qg&_nc_zt=24&_nc_ht=scontent.fvlc4-1.fna&_nc_gid=w98OB8e5SlweDzSy0HYZNw&_nc_ss=8&oh=00_AfyMj5wDZe2L5WFqIEM7Y9kyUX_3ZiQhzobQV9XPnt-77g&oe=69BF5291" group-title="USA | Vegas Plus",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="USA | Vegas Plus",Mindanow Network TV (1080p)
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="PacificIslandNetwork.us@HD" tvg-logo="https://vegasplus.us/Holaa_files/pacific_island.png" group-title="USA | Vegas Plus",Pacific Island Network (1080p)
+https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD" tvg-logo="https://vegasplus.us/Holaa_files/vltv.png" group-title="USA | Vegas Plus",Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.peopleareawesome.com/cdn/shop/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png?v=1620654491" group-title="España | Entretenimiento",The People Are Awesome
+https://jukin-peopleareawesome-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thepetcollective.com/wp-content/uploads/2025/11/Logo-svg-4.svg" group-title="España | Entretenimiento",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fdfe80db0-76d2-4437-bae4-470236b57cfb%2F1500x1000_dark_-_Irina_Larionova.png" group-title="España | Entretenimiento",Ideas En 5 Minutos (Rakuten TV)
+https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/4jGi8n-P5FH52bMx4I_CamgXusPZmmaCLDieSOyBIdA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Bs/dXRvLXR2L2ltYWdl/cy8yLzIyL0lDYXJs/eV9UVi5qcGVnL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzE4/MD9jYj0yMDI1MDgw/NDIwMjkyOQ" group-title="España | Entretenimiento",iCarly (Pluto TV)
+https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vZDE2MjUxZjgtZmY1Yi00ZTM2LWJlNzUtZWI2MGFhNDNiMGRi" group-title="USA | Deportes",Pac-12 Insider
+https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8?ads.channel_name=Sports%20Illustrated%20TV&ads.content_genre=Sport&ads.iab_category=IAB17&provider=FreeLiveSports&ads.us_privacy=&ads.gdpr=0&ads.gdpr_consent=&ads.coppa=0&ads.content_livestream=1&ads.language=en&ads.content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&ads.lmt=0&ads.device_id=ajsGqI
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",La Sagrada Familia
+https://s68.ipcamlive.com/streams/442y1axrdnvvxbwtg/stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",UncleSamTT Maracas Beach
+https://video1.earthcam.com/myearthcam/1ff45fdb234d79b96ce78e363fcfed3f.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Carrer de la Pau
+https://webcam-2.ibericam.com:5443/live/streams/valencia-calle-de-la-paz.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Ciutat de Les Arts y Les Ciències
+https://streaming.comunitatvalenciana.com/webcam/ValenciaCiudadAyC/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Colombia-Laredo - Puente fronterizo (Mexico)
+https://mia.rtsp.me/2YMAX-coLmUpwE3BZLApXQ/1769814335/hls/94RBHiAa.m3u8?ip=139.47.21.220
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Community Awareness Network
+https://video1.earthcam.com/myearthcam/77107692c2c545bfcd6303d772042bd1.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Conservation Biology Institute Pandas
+https://nzp-wowza02.si.edu/live_edge_panda25/smil:panda125_02.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",El Saler
+https://streaming.comunitatvalenciana.com/webcam/ElSaler/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Estación invernal Valgrande (Spain)
+https://lon.rtsp.me/nFZjeQ7Rx04dUNwYWMtLxQ/1769813995/hls/szSaSeYa.m3u8?ip=139.47.21.220
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Jardín del Turia
+https://streaming.comunitatvalenciana.com/webcam/ValenciaPalace/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Las Vegas (United States)
+http://68.107.160.109:3000/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Mancha Real (Spain)
+http://2.136.124.194:83/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Mavis Farmacy Flat Top WV
+https://video1.earthcam.com/myearthcam/f731999f98946d8b8a713a42669b1c5c.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Plaça de l'Ajuntament (vista 1)
+https://streaming.comunitatvalenciana.com/webcam/ValenciaPlazaAyuntamiento/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Portonovo (Spain)
+https://lon.rtsp.me/I06_civDOm68a-C03kRhUw/1769813862/hls/iHNy62rN.m3u8?ip=139.47.21.220
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",San Agustín – Vista a la Calle Mayor
+https://webcam-2.ibericam.com:5443/live/streams/san-agustin.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",San Diego Zoo Ape Cam
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",San Diego Zoo Penguin Cam
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",San Diego Zoo Playtopus Cam (Vista 1)
+https://zssd-platypus2.hls.camzonecdn.com/CamzoneStreams/zssd-platypus2/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",San Diego Zoo Playtopus Cam (Vista 1)
+https://zssd-platypus2.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Smithsonian Conservation Biology Institute Cheetas (Vista 1)
+https://nzp-wowza02.si.edu/live_edge_cheetah_04/cheetah_y14_02_1080_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Smithsonian Conservation Biology Institute Cheetas (Vista 2)
+https://nzp-wowza02.si.edu/live_edge_cheetah_03/cheetah_y14_01_1080_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/camara-fotografica-vectorial-realista1_733406-476.jpg?semt=ais_user_personalization&w=740&q=80" group-title="Misc | Camaras & Webcams",Zúrich - Panteras
+https://ch-fra-n14.livespotting.com/vpu/e9slfpe3/tt4tytkq.m3u8?
 #EXTINF:-1 tvg-id="3ABNEnglish.us@SD" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="USA | Religión",3ABN English
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us@SD" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="USA | Religión",3ABN French
