@@ -3255,6 +3255,8 @@ https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
 #EXTINF:-1 group-title="España | Zylo TV" tvg-id="TodoNovelas.es@SD" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-chno="855",Zylo Todo Novelas (1080p)
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf40c65774400228dc57a.png?t=1674460105",Vivir Con Gatos
+https://vivircongatos-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 group-title="Europa | Noticias" tvg-id="BloombergTV.us@EMEALiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-chno="856",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 group-title="Europa | Noticias" tvg-id="BloombergTV.us@Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-chno="857",Bloomberg TV Europe (720p)
@@ -6513,3 +6515,19 @@ http://0.0.0.0
 http://0.0.0.0
 #EXTINF:-1 group-title="Misc | Info" tvg-health="Error: <urlopen error [WinError 10049] La dirección solicitada no es válida en este contexto>",═══ https://github.com/SrJea/kitty ═══
 http://0.0.0.0
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://vivirconperros-tivify.ssai.tcscdn.net/master.m3u8",Vivir Con Perros
+https://media.tvup.cloud/canales/color_lg_628cf372f712d6001b3a6484.png
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png",Oficios Perdidos
+https://oficiosperdidos-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png",El Mueble
+https://amg01821-amg01821c37-tivify-international-11037.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-elmueble-tivifyinternational/playlist.m3u8
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png",Sin Filtros
+https://sinfiltros-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png",Cines Verdi TV
+https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_6788eca1eb47e03b4d571b46_1742820319584.png",Anime Vision
+https://animevision-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_68245fddfd0e5f592c906fb5_1756896784354.png",Rabbits Invasion
+https://daiconnect.com/live/hls/tvup/tvfy-rabbidsinvasion/.m3u8
+#EXTINF:-1 group-title="España | Tivify" tvg-logo="https://media.tvup.cloud/canales/color_lg_64e480ccdc3cd8224ded0426.png",Love The Planet
+https://amg01821-lovetv-amg01821c9-tivify-international-2006.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-tivifyinternational/playlist.m3u8
